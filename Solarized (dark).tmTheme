@@ -249,10 +249,7 @@
 			<key>scope</key>
 			<string>support.function</string>
 			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#268BD2</string>
-			</dict>
+			<dict/>
 		</dict>
 		<dict>
 			<key>name</key>
