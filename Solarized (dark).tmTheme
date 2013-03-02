@@ -648,9 +648,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#BD3800</string>
+				<string>#839496</string>
 			</dict>
 		</dict>
 		<dict>
@@ -910,13 +910,26 @@
 			<key>name</key>
 			<string>Ruby: Punctuation Section ''</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded.ruby, punctuation.definition.string.begin.ruby, punctuation.definition.string.end.ruby</string>
+			<string>punctuation.definition.string.begin.ruby, punctuation.definition.string.end.ruby</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#D01F1E</string>
 			</dict>
 		</dict>
+    <dict>
+      <key>name</key>
+      <string>Ruby: ERB tags</string>
+      <key>scope</key>
+      <string>punctuation.section.embedded.ruby</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#D01F1E</string>
+      </dict>
+    </dict>
 		<dict>
 			<key>name</key>
 			<string>Ruby: Special Method</string>
