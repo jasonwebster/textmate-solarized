@@ -1893,6 +1893,18 @@
 			</dict>
 		</dict>
 
+    <dict>
+      <key>name</key>
+      <string>CoffeeScript: quotes</string>
+      <key>scope</key>
+      <string>punctuation.definition.string.begin.coffee, punctuation.definition.string.end.coffee</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#dc322f</string>
+      </dict>
+    </dict>
+
 		<dict>
 			<key>name</key>
 			<string>Markdown: Headings</string>
