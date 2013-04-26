@@ -152,7 +152,7 @@
 			<key>name</key>
 			<string>Embedded code markers</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded.begin, punctuation.section.embedded.end</string>
+			<string>punctuation.section.embedded, punctuation.section.embedded.begin, punctuation.section.embedded.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
