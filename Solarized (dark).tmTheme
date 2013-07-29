@@ -88,7 +88,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#708284</string>
+				<string>#839496</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Instance Variable</string>
+			<key>scope</key>
+			<string>variable.other.readwrite.instance</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2e8ccf</string>
 			</dict>
 		</dict>
 		<dict>
