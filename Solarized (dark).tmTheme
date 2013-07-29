@@ -123,7 +123,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#268BD2</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -177,11 +177,13 @@
 			<string>support.function.construct, keyword.other.new</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#D30102</string>
+        <key>foreground</key>
+				<string>#cb4b16</string>
 			</dict>
 		</dict>
-		<dict>
+
+
+    <dict>
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
@@ -829,7 +831,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -890,7 +892,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A57800</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
